@@ -7,7 +7,7 @@ It consists of various projects ,I have worked on.</br>
 </br>
 It provides my various profile.
 </br>
-1. LinkedIn
-2. Youtube
-3. Codechef
-4. GeeksforGeeks(gfg)
+1. LinkedIn</br>
+2. Youtube</br>
+3. Codechef</br>
+4. GeeksforGeeks(gfg)</br>
