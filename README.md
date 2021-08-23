@@ -4,7 +4,8 @@ It consists of various projects ,I have worked on.</br>
 1. Mind-sweeper Game.
 2. Instagram Automation.
 3. Booking system miniature.
-It provides my various profile.</br>
+</br>
+It provides my various profile.
 1.LinkedIn.
 2.Youtube.
 3.Codechef.
